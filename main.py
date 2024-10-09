@@ -1,6 +1,6 @@
 import telebot;
 from methods import *
-bot = telebot.TeleBot('7779947781:AAEApkVRU8d5EAyFECJ5y01r_ZCN5hCukjA')
+bot = telebot.TeleBot('token')
 weekdays = ['Понедельник','Вторник','Среда','Четверг','Пятница','Суббота']
 add_ts_date_flag = False
 add_ts_sub_flag = False
